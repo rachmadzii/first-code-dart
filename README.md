@@ -1,2 +1,2 @@
-# first_code
-Learning Dart
+# First Code with Dart
+Learning Dart Language
